@@ -2,7 +2,7 @@
 - 👀 I’m interested in creating web applications
 - 🌱 I’m currently learning Django, Flask, JSP
 - 💞️ I’m looking to collaborate on building stuffs like network connection
-- 📫 How to reach me through <a href="mailto:4akhilkumar@gmail.com">Email</a>
+- 📫 How to reach me through <a href="mailto:4akhilkumar@gmail.com">Email</a> | <a href="https://t.me/activare">Telegram</a>
 
 [![4akhilkumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=4akhilkumar&show_icons=true)](https://github.com/4akhilkumar)
 
