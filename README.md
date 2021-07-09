@@ -6,7 +6,7 @@
 
 [![4akhilkumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=4akhilkumar&show_icons=true)](https://github.com/4akhilkumar)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4akhilkumar)](https://github.com/4akhilkumar)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4akhilkumar&layout=compact&title_color=1a202c&text_color=1a202c" alt="Most used languages" />
 
 [![Contribution](https://github-readme-streak-stats.herokuapp.com/?user=4akhilkumar&)](https://github.com/4akhilkumar)
 
