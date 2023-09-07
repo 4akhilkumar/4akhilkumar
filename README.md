@@ -12,7 +12,7 @@ I’m a relatively new self-taught python full stack developer who loves to lear
   * Dynamic Fields creation (A kind of Google Forms Clone) at client side by the user using JS-Ajax and Django
   * Switch Device - Continue the work Module using Short pulling and ➡️ more ...
 * My Gists [@4akhilkumar](https://gist.github.com/4akhilkumar)
-* I build npm packages [~4akhilkumar](https://www.npmjs.com/~4akhilkumar)
+* I build npm packages [~4akhilkumar](https://www.npmjs.com/~4akhilkumar) and also Python Modules [4akhilkumar](https://pypi.org/user/4akhilkumar/)
 * ⚡ Fact: I avoid using the Bootstrap for buliding projects because I can do more with HTML5, CSS & JS
 - 📫 You can reach me through &nbsp;<a href="mailto:4akhilkumar@gmail.com"><img align="center" src="https://img.icons8.com/plasticine/344/gmail.png" alt="mailto:4akhilkumar@gmail.com" height="25" width="25" /></a>&nbsp;&nbsp;<a href="https://t.me/activare"><img align="center" src="https://img.icons8.com/color/344/telegram-app--v1.png" alt="https://t.me/activare" height="25" width="25" /></a>
 ---
